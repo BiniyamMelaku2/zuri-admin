@@ -1,0 +1,2 @@
+# zuri-admin
+django admin
