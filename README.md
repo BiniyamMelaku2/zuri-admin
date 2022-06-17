@@ -15,10 +15,10 @@
 
 * You should be able to open http://127.0.0.1:8000/zuri-admin/ and login to the admin dashboard.
 
-## Resources
+## Resources  :mag_right:
 
-####[Creating admin user in Django](https://docs.djangoproject.com/en/1.8/intro/tutorial02/)
+#### [Creating admin user in Django](https://docs.djangoproject.com/en/1.8/intro/tutorial02/)
 
-####[How to create superuser in Django?](https://www.geeksforgeeks.org/how-to-create-superuser-in-django/)
+#### [How to create superuser in Django?](https://www.geeksforgeeks.org/how-to-create-superuser-in-django/)
 
-####[How to reset Admin password in Django](https://pythonguides.com/python-django-get-admin-password/)
+#### [How to reset Admin password in Django](https://pythonguides.com/python-django-get-admin-password/)
