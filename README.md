@@ -17,8 +17,8 @@
 
 ## Resources
 
-- [Creating admin user in Django](https://docs.djangoproject.com/en/1.8/intro/tutorial02/)
+####[Creating admin user in Django](https://docs.djangoproject.com/en/1.8/intro/tutorial02/)
 
--[How to create superuser in Django?](https://www.geeksforgeeks.org/how-to-create-superuser-in-django/)
+####[How to create superuser in Django?](https://www.geeksforgeeks.org/how-to-create-superuser-in-django/)
 
--[How to reset Admin password in Django](https://pythonguides.com/python-django-get-admin-password/)
+####[How to reset Admin password in Django](https://pythonguides.com/python-django-get-admin-password/)
